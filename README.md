@@ -32,7 +32,7 @@ My goal: **turn messy real-world data into clear, actionable intelligence**.
 
 ---
 
-## 🛰️ Featured Projects (Cyberpunk Grid)
+## 🛰️ Featured Projects
 
 <p align="center">
   <table>
@@ -70,7 +70,7 @@ My goal: **turn messy real-world data into clear, actionable intelligence**.
 
 ---
 
-## 🧰 Tech Stack (Neon Mode)
+## 🧰 Tech Stack
 
 ### 🔹 AI / LLM / Data
 <p>
@@ -117,7 +117,6 @@ My goal: **turn messy real-world data into clear, actionable intelligence**.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nicholai-gay"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/QinnniQ"><img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github" /></a>
 </p>
 
 <p align="center">
