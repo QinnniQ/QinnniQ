@@ -11,8 +11,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/QinnniQ"><img src="https://img.shields.io/github/followers/QinnniQ?label=Followers&style=for-the-badge&color=00e5ff" /></a>
-  <a href="https://www.linkedin.com/in/nicholai-gay"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/QinnniQ">
+    <img src="https://img.shields.io/github/followers/QinnniQ?label=Followers&style=for-the-badge&color=00e5ff" />
+  </a>
+  <a href="https://www.linkedin.com/in/nicholai-gay">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=QinnniQ&style=for-the-badge&color=ff00ff&label=PROFILE+SCANS" />
 </p>
 
@@ -40,7 +44,7 @@ My goal: **turn messy real-world data into clear, actionable intelligence**.
 
 <td align="center" width="50%">
   <a href="https://github.com/QinnniQ/global-economic-intel-agent">
-    <img src="https://raw.githubusercontent.com/QinnniQ/QinnniQ/main/assets/thumbnail-global-econ.png" width="100%" />
+    <img src="https://raw.githubusercontent.com/QinnniQ/QinnniQ/main/assets/geia.png" width="100%" />
     <br />
     <sub><b>🌐 Global Economic Intelligence Agent</b></sub>
   </a>
@@ -50,7 +54,7 @@ My goal: **turn messy real-world data into clear, actionable intelligence**.
 
 <td align="center" width="50%">
   <a href="https://github.com/QinnniQ/crypto-bot">
-    <img src="https://raw.githubusercontent.com/QinnniQ/QinnniQ/main/assets/thumbnail-crypto-bot.png" width="100%" />
+    <img src="https://raw.githubusercontent.com/QinnniQ/QinnniQ/main/assets/crypto_bot_logo.png" width="80%" />
     <br />
     <sub><b>🪙 Crypto Trends Bot</b></sub>
   </a>
@@ -97,7 +101,9 @@ My goal: **turn messy real-world data into clear, actionable intelligence**.
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nicholai-gay-201905148/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/nicholai-gay">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 <p align="center">
