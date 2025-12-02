@@ -22,10 +22,10 @@
 
 I’m **Nicholai**, an **AI Engineer** building intelligent systems that fuse:
 
-- 🤖 **LLM Agents & Tooling**
-- 🔎 **RAG Pipelines for Deep Retrieval**
-- 🎧 **Multimodal AI (Whisper, speech, embeddings)**
-- ⚙️ **FastAPI, Docker & scalable backend architecture**
+- 🤖 **LLM Agents & Tooling**  
+- 🔎 **RAG Pipelines for Deep Retrieval**  
+- 🎧 **Multimodal AI (Whisper, speech, embeddings)**  
+- ⚙️ **FastAPI, Docker & scalable backend architecture**  
 - ☁️ **Cloud-native deployment, CI/CD, automation**
 
 My goal: **turn messy real-world data into clear, actionable intelligence**.
@@ -35,33 +35,31 @@ My goal: **turn messy real-world data into clear, actionable intelligence**.
 ## 🛰️ Featured Projects
 
 <p align="center">
-  <table>
-    <tr>
+<table>
+<tr>
 
-      <!-- Project 1 -->
-      <td align="center" width="50%">
-        <a href="https://github.com/QinnniQ/global-economic-intel-agent">
-          <img src="https://raw.githubusercontent.com/QinnniQ/QinnniQ/main/assets/thumbnail-global-econ.png" width="100%" />
-          <br />
-          <sub><b>🌐 Global Economic Intelligence Agent</b></sub>
-        </a>
-        <br />
-        <sub><code>FastAPI • LangChain • RAG • Docker</code></sub>
-      </td>
+<td align="center" width="50%">
+  <a href="https://github.com/QinnniQ/global-economic-intel-agent">
+    <img src="https://raw.githubusercontent.com/QinnniQ/QinnniQ/main/assets/thumbnail-global-econ.png" width="100%" />
+    <br />
+    <sub><b>🌐 Global Economic Intelligence Agent</b></sub>
+  </a>
+  <br />
+  <sub><code>FastAPI • LangChain • RAG • Docker</code></sub>
+</td>
 
-      <!-- Project 2 -->
-      <td align="center" width="50%">
-        <a href="https://github.com/QinnniQ/crypto-bot">
-          <img src="https://raw.githubusercontent.com/QinnniQ/QinnniQ/main/assets/thumbnail-crypto-bot.png" width="100%" />
-          <br />
-          <sub><b>🪙 Crypto Trends Bot</b></sub>
-        </a>
-        <br />
-        <sub><code>Whisper • LangChain • Chroma • Streamlit</code></sub>
-      </td>
+<td align="center" width="50%">
+  <a href="https://github.com/QinnniQ/crypto-bot">
+    <img src="https://raw.githubusercontent.com/QinnniQ/QinnniQ/main/assets/thumbnail-crypto-bot.png" width="100%" />
+    <br />
+    <sub><b>🪙 Crypto Trends Bot</b></sub>
+  </a>
+  <br />
+  <sub><code>Whisper • LangChain • Chroma • Streamlit</code></sub>
+</td>
 
-    </tr>
-  </table>
+</tr>
+</table>
 </p>
 
 ---
