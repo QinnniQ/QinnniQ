@@ -59,13 +59,6 @@ My goal: **turn messy real-world data into clear, actionable intelligence**.
         <a href="https://github.com/QinnniQ/ai-agent-starter">
           <img src="https://raw.githubusercontent.com/QinnniQ/QinnniQ/main/assets/thumbnail-agent-starter.png" width="100%" />
           <br />
-          <sub><b>⚙️ AI Agent Starter Template</b></sub>
-        </a>
-        <br />
-        <sub><code>LangChain • FastAPI • Docker</code></sub>
-      </td>
-    </tr>
-  </table>
 </p>
 
 ---
