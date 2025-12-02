@@ -43,7 +43,7 @@ My goal: **turn messy real-world data into clear, actionable intelligence**.
 <tr>
 
 <td align="center" width="50%">
-  <a href="https://github.com/QinnniQ/global-economic-intel-agent">
+  <a href="https://github.com/QinnniQ/global-economic-intelligence-agent">
     <img src="https://raw.githubusercontent.com/QinnniQ/QinnniQ/main/assets/geia.png" width="100%" />
     <br />
     <sub><b>🌐 Global Economic Intelligence Agent</b></sub>
