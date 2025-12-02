@@ -37,7 +37,9 @@ My goal: **turn messy real-world data into clear, actionable intelligence**.
 <p align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
+
+      <!-- Project 1 -->
+      <td align="center" width="50%">
         <a href="https://github.com/QinnniQ/global-economic-intel-agent">
           <img src="https://raw.githubusercontent.com/QinnniQ/QinnniQ/main/assets/thumbnail-global-econ.png" width="100%" />
           <br />
@@ -46,7 +48,9 @@ My goal: **turn messy real-world data into clear, actionable intelligence**.
         <br />
         <sub><code>FastAPI • LangChain • RAG • Docker</code></sub>
       </td>
-      <td align="center" width="33%">
+
+      <!-- Project 2 -->
+      <td align="center" width="50%">
         <a href="https://github.com/QinnniQ/crypto-bot">
           <img src="https://raw.githubusercontent.com/QinnniQ/QinnniQ/main/assets/thumbnail-crypto-bot.png" width="100%" />
           <br />
@@ -55,12 +59,9 @@ My goal: **turn messy real-world data into clear, actionable intelligence**.
         <br />
         <sub><code>Whisper • LangChain • Chroma • Streamlit</code></sub>
       </td>
-      <td align="center" width="33%">
-        <a href="https://github.com/QinnniQ/ai-agent-starter">
-          <img src="https://raw.githubusercontent.com/QinnniQ/QinnniQ/main/assets/thumbnail-agent-starter.png" width="100%" />
-          <br />
 
-          
+    </tr>
+  </table>
 </p>
 
 ---
