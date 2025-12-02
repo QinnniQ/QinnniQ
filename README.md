@@ -12,7 +12,6 @@ I'm an **AI Engineer** focused on building intelligent systems using **LLM agent
 
 ### 📫 Connect
 LinkedIn: https://www.linkedin.com/in/nicholai-gay  
-GitHub: https://github.com/QinnniQ  
 
 ---
 
