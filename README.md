@@ -1,22 +1,125 @@
+<!-- 🌌 CYBERPUNK GITHUB PROFILE README FOR NICHOLAI GAY -->
+
+<!-- 🔮 Cyberpunk Banner -->
 <p align="center">
   <img src="https://github.com/QinnniQ/QinnniQ/blob/main/assets/cyber-punk-banner.png?raw=true" width="100%" />
 </p>
 
-# 👋 Hi, I'm Nicholai
+<!-- 🧬 Animated Typing Headline -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2000&pause=800&color=00E5FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%E2%80%A2+LLM+Agents+%E2%80%A2+RAG+Systems;Backend+Infra+%E2%80%A2+Cloud+%E2%80%A2+LangChain;Turning+Complexity+Into+Intelligence" alt="Typing Animation" />
+</p>
 
-Welcome to my GitHub profile!  
-I'm an **AI Engineer** focused on building intelligent systems using **LLM agents, RAG pipelines, and modern backend infrastructure**.
-
-### 🔍 What I work on
-- LLM Agents & Tooling  
-- Retrieval-Augmented Generation (RAG)  
-- FastAPI & Backend Architecture  
-- Multimodal AI (Whisper, speech-to-text, embeddings)  
-- Cloud deployments using Docker, CI/CD, and modern infra
-
-### 📫 Connect
-LinkedIn: https://www.linkedin.com/in/nicholai-gay  
+<p align="center">
+  <a href="https://github.com/QinnniQ"><img src="https://img.shields.io/github/followers/QinnniQ?label=Followers&style=for-the-badge&color=00e5ff" /></a>
+  <a href="https://www.linkedin.com/in/nicholai-gay"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <img src="https://komarev.com/ghpvc/?username=QinnniQ&style=for-the-badge&color=ff00ff&label=PROFILE+SCANS" />
+</p>
 
 ---
 
-⭐ More updates, tools, and AI projects coming soon!
+## ⚡ About Me
+
+I’m **Nicholai**, an **AI Engineer** building intelligent systems that fuse:
+
+- 🤖 **LLM Agents & Tooling**
+- 🔎 **RAG Pipelines for Deep Retrieval**
+- 🎧 **Multimodal AI (Whisper, speech, embeddings)**
+- ⚙️ **FastAPI, Docker & scalable backend architecture**
+- ☁️ **Cloud-native deployment, CI/CD, automation**
+
+My goal: **turn messy real-world data into clear, actionable intelligence**.
+
+---
+
+## 🛰️ Featured Projects (Cyberpunk Grid)
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://github.com/QinnniQ/global-economic-intel-agent">
+          <img src="https://raw.githubusercontent.com/QinnniQ/QinnniQ/main/assets/thumbnail-global-econ.png" width="100%" />
+          <br />
+          <sub><b>🌐 Global Economic Intelligence Agent</b></sub>
+        </a>
+        <br />
+        <sub><code>FastAPI • LangChain • RAG • Docker</code></sub>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/QinnniQ/crypto-bot">
+          <img src="https://raw.githubusercontent.com/QinnniQ/QinnniQ/main/assets/thumbnail-crypto-bot.png" width="100%" />
+          <br />
+          <sub><b>🪙 Crypto Trends Bot</b></sub>
+        </a>
+        <br />
+        <sub><code>Whisper • LangChain • Chroma • Streamlit</code></sub>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/QinnniQ/ai-agent-starter">
+          <img src="https://raw.githubusercontent.com/QinnniQ/QinnniQ/main/assets/thumbnail-agent-starter.png" width="100%" />
+          <br />
+          <sub><b>⚙️ AI Agent Starter Template</b></sub>
+        </a>
+        <br />
+        <sub><code>LangChain • FastAPI • Docker</code></sub>
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
+## 🧰 Tech Stack (Neon Mode)
+
+### 🔹 AI / LLM / Data
+<p>
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=ffde57" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=00e5ff" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VectorDB-Chroma-00E5FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Whisper-20232A?style=for-the-badge" />
+</p>
+
+### 🔹 Backend & Infra
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-0A0F0F?style=for-the-badge&logo=node.js&logoColor=00e676" />
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=ffd700" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Automation-9333EA?style=for-the-badge" />
+</p>
+
+### 🔹 Frontend / UI
+<p>
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-1e1e2f?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
+---
+
+## ⚙️ Systems Online
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=QinnniQ&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00E5FF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=QinnniQ&theme=radical&hide_border=true&background=0D1117&ring=FF00FF&fire=FF00FF&currStreakLabel=00E5FF" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QinnniQ&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nicholai-gay"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/QinnniQ"><img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github" /></a>
+</p>
+
+<p align="center">
+  <i>⭐ If you enjoy my work, feel free to follow — more agents, RAG systems, and AI tools coming soon.</i>
+</p>
