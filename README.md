@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/QinnniQ/QinnniQ/blob/main/assets/cyber-punk-banner.png?raw=true" width="100%" />
+</p>
+
 # 👋 Hi, I'm Nicholai
 
 Welcome to my GitHub profile!  
