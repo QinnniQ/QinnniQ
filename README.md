@@ -68,7 +68,7 @@ My goal: **turn messy real-world data into clear, actionable intelligence**.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### 🔹 AI / LLM / Data
 <p>
