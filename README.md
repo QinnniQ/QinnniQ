@@ -24,7 +24,7 @@
 
 ## About Me
 
-I’m **Nicholai**, an **AI Engineer** building intelligent systems that fuse:
+I’m Nicholai, an AI Engineer building intelligent systems that fuse:
 
 - **LLM Agents & Tooling**  
 - **RAG Pipelines for Deep Retrieval**  
