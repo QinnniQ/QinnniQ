@@ -98,7 +98,7 @@ My goal: **turn messy real-world data into clear, actionable intelligence**.
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nicholai-gay">
