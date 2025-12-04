@@ -116,13 +116,14 @@ I’m Nicholai, an AI Engineer building intelligent systems that fuse:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/EMERGING%20INTEREST-The%20Chip%20War-8A2BE2?style=for-the-badge&logoColor=white" />
+### Curiosity Focus: Semiconductor Geopolitics
 
-<p align="center">
-  I’m currently fascinated by the geopolitical chessboard behind semiconductors—especially 
-  <b>ASML’s EUV lithography monopoly</b> and the engineering marvel that quietly shapes global innovation.
-  <br><i>It’s the perfect intersection of technology, strategy, and the future of intelligence systems.</i>
-</p>
+<sub>
+I’ve developed a deep interest in the global dynamics surrounding ASML and  
+EUV lithography, a technology so advanced that it shapes innovation, policy,  
+and international strategy. It’s a rare intersection where engineering excellence  
+meets geopolitics, and it influences how I think about the future of technology.
+</sub>
 
 </div>
 
