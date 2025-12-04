@@ -101,7 +101,7 @@ My goal: **turn messy real-world data into clear, actionable intelligence**.
 ## Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nicholai-gay">
+  <a href="https://www.linkedin.com/in/nicholai-gay-201905148/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
