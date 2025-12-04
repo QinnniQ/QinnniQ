@@ -107,10 +107,20 @@ I’m Nicholai, an AI Engineer building intelligent systems that fuse:
 
 </p>
 
-<!-- Centered Email -->
+<!-- Centered Email (Perfect Alignment) -->
 <div align="center" style="margin-top: 14px;">
-  <img src="https://img.icons8.com/fluency/48/000000/new-post.png" width="22px" style="vertical-align: middle; margin-right: 6px;" />
-  <span style="font-size: 16px; vertical-align: middle;">nicholai.gay@gmail.com</span>
+
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 0; vertical-align: middle;">
+      <img src="https://img.icons8.com/fluency/48/000000/new-post.png" width="20px" />
+    </td>
+    <td style="border: none; padding: 0 0 0 6px; vertical-align: middle;">
+      <span style="font-size: 16px;">nicholai.gay@gmail.com</span>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
