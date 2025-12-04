@@ -107,5 +107,6 @@ My goal: **turn messy real-world data into clear, actionable intelligence**.
 </p>
 
 <p align="center">
-  <i>If you enjoy my work, feel free to follow — more agents, RAG systems, and AI tools coming soon.</i>
+  <i>> 🌍 **Side Interest:** I’m currently exploring the geopolitics of semiconductors, especially ASML and EUV lithography, and how a single technology can shift global power and innovation.
+</i>
 </p>
