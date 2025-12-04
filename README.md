@@ -32,8 +32,6 @@ I’m Nicholai, an AI Engineer building intelligent systems that fuse:
 - **FastAPI, Docker & scalable backend architecture**  
 - **Cloud-native deployment, CI/CD, automation**
 
-My goal: **turn messy real-world data into clear, actionable intelligence**.
-
 ---
 
 ## Featured Projects
