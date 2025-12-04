@@ -105,11 +105,11 @@ I’m Nicholai, an AI Engineer building intelligent systems that fuse:
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <!-- Email -->
-  <a href="mailto:nicholai.gay@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Message_Me-00E5FF?style=for-the-badge&logo=minutemailer&logoColor=111827" />
-  </a>
+</p>
 
+<p align="center" style="margin-top: 10px;">
+  <img src="https://img.icons8.com/fluency/48/000000/new-post.png" width="28px" />
+  <span style="font-size: 16px; margin-left: 6px;">nicholai.gay@gmail.com</span>
 </p>
 
 ---
