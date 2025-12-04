@@ -14,7 +14,7 @@
   <a href="https://github.com/QinnniQ">
     <img src="https://img.shields.io/github/followers/QinnniQ?label=Followers&style=for-the-badge&color=00e5ff" />
   </a>
-  <a href="https://www.linkedin.com/in/nicholai-gay">
+  <a href="https://www.linkedin.com/in/nicholai-gay-201905148/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=QinnniQ&style=for-the-badge&color=ff00ff&label=PROFILE+SCANS" />
