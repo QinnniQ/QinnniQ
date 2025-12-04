@@ -107,9 +107,18 @@ I’m Nicholai, an AI Engineer building intelligent systems that fuse:
 
 </p>
 
+<!-- Email Row (Perfect Alignment) -->
 <p align="center" style="margin-top: 10px;">
-  <img src="https://img.icons8.com/fluency/48/000000/new-post.png" width="28px" />
-  <span style="font-size: 16px; margin-left: 6px;">nicholai.gay@gmail.com</span>
+  <table>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://img.icons8.com/fluency/48/000000/new-post.png" width="22px" />
+      </td>
+      <td align="center" style="border: none; padding-left: 6px;">
+        <span style="font-size: 16px;">nicholai.gay@gmail.com</span>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
