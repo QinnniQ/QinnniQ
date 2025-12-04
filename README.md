@@ -110,8 +110,8 @@ I’m Nicholai, an AI Engineer building intelligent systems that fuse:
 <div align="center">
 
 ### Emerging Interest: The Chip War
-I’ve become fascinated by the geopolitical chessboard behind **semiconductors**, especially  
-**ASML’s EUV monopoly** and the engineering marvel that underpins global innovation.  
+I’ve become fascinated by the geopolitical chessboard behind semiconductors, especially  
+ASML’s EUV monopoly and the engineering marvel that underpins global innovation.  
 It’s a perfect mix of tech, strategy, and the future of intelligence systems.
 
 </div>
