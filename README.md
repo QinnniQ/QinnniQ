@@ -2,7 +2,7 @@
 
 <!-- 🔮 Cyberpunk Banner -->
 <p align="center">
-  <img src="https://github.com/QinnniQ/QinnniQ/blob/main/assets/cyber-punk-banner.png?raw=true" width="100%" />
+  <img src="https://github.com/QinnniQ/QinnniQ/blob/main/assets/banner-new.png?raw=true" width="100%" />
 </p>
 
 <!-- 🧬 Animated Typing Headline -->
