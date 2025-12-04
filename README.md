@@ -22,21 +22,21 @@
 
 ---
 
-## ⚡ About Me
+## About Me
 
 I’m **Nicholai**, an **AI Engineer** building intelligent systems that fuse:
 
-- 🤖 **LLM Agents & Tooling**  
-- 🔎 **RAG Pipelines for Deep Retrieval**  
-- 🎧 **Multimodal AI (Whisper, speech, embeddings)**  
-- ⚙️ **FastAPI, Docker & scalable backend architecture**  
-- ☁️ **Cloud-native deployment, CI/CD, automation**
+- **LLM Agents & Tooling**  
+- **RAG Pipelines for Deep Retrieval**  
+- **Multimodal AI (Whisper, speech, embeddings)**  
+- **FastAPI, Docker & scalable backend architecture**  
+- **Cloud-native deployment, CI/CD, automation**
 
 My goal: **turn messy real-world data into clear, actionable intelligence**.
 
 ---
 
-## 🛰️ Featured Projects
+## Featured Projects
 
 <p align="center">
 <table>
@@ -107,5 +107,5 @@ My goal: **turn messy real-world data into clear, actionable intelligence**.
 </p>
 
 <p align="center">
-  <i>⭐ If you enjoy my work, feel free to follow — more agents, RAG systems, and AI tools coming soon.</i>
+  <i>If you enjoy my work, feel free to follow — more agents, RAG systems, and AI tools coming soon.</i>
 </p>
