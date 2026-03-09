@@ -26,11 +26,13 @@
 
 I’m Nicholai, an AI Engineer building intelligent systems that fuse:
 
-- **LLM Agents & Tooling**  
-- **RAG Pipelines for Deep Retrieval**  
+- **LLM Agents, MCP & Tooling**  
+- **RAG and grounded retrieval systems**
+- **Eval-driven iteration and AI reliability**  
 - **Multimodal AI (Whisper, speech, embeddings)**  
 - **FastAPI, Docker & scalable backend architecture**  
-- **Cloud-native deployment, CI/CD, automation**
+- **Cloud-native deployment, CI/CD**
+- **Automation, orchestration, and deployment**
 
 ---
 
