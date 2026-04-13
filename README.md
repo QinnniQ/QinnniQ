@@ -31,7 +31,7 @@ I’m Nicholai, an AI Engineer building intelligent systems that fuse:
 - **Eval-driven iteration and AI reliability**  
 - **Multimodal AI (Whisper, speech, embeddings)**  
 - **FastAPI, Docker & scalable backend architecture**  
-- **Cloud-native deployment, CI/CD**
+- **Cloud-native data and AI workflows, including Databricks, CI/CD**
 - **Automation, orchestration, and deployment**
 
 ---
