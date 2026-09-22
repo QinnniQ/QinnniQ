@@ -1,142 +1,53 @@
-<!-- 🌌 CYBERPUNK GITHUB PROFILE README FOR NICHOLAI GAY -->
+# Nicholai Gay
 
-<!-- 🔮 Cyberpunk Banner -->
-<p align="center">
-  <img src="https://github.com/QinnniQ/QinnniQ/blob/main/assets/banner-new.png?raw=true" width="100%" />
-</p>
+AI Engineer building reliable LLM applications, agent systems, RAG pipelines, and the infrastructure needed to run them.
 
-<!-- 🧬 Animated Typing Headline -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2000&pause=800&color=00E5FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%E2%80%A2+LLM+Agents+%E2%80%A2+RAG+Systems;Backend+Infra+%E2%80%A2+Cloud+%E2%80%A2+LangChain;Turning+Complexity+Into+Intelligence" alt="Typing Animation" />
-</p>
+I focus on practical systems: grounded outputs, explicit tool use, measurable evaluation, API integration, and clear operational boundaries.
 
-<p align="center">
-  <a href="https://github.com/QinnniQ">
-    <img src="https://img.shields.io/github/followers/QinnniQ?label=Followers&style=for-the-badge&color=00e5ff" />
-  </a>
-  <a href="https://www.linkedin.com/in/nicholai-gay-201905148/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=QinnniQ&style=for-the-badge&color=ff00ff&label=PROFILE+SCANS" />
-</p>
+## Selected work
 
----
+### [Global Economic Intelligence Agent](https://github.com/QinnniQ/global-economic-intelligence-agent)
+Full-stack economic intelligence application combining live macroeconomic APIs, document retrieval, LLM analysis, interactive dashboards, and exportable reports.
 
-## About Me
+`Python` · `FastAPI` · `LangChain` · `RAG` · `ChromaDB` · `Streamlit` · `Docker`
 
-I’m Nicholai, an AI Engineer building intelligent systems that fuse:
+### [ChipScope MCP](https://github.com/QinnniQ/chipscope-mcp)
+MCP-native semiconductor intelligence system with structured resources, deterministic and LLM-backed tools, and repeatable evaluation workflows.
 
-- **LLM Agents, MCP & Tooling**  
-- **RAG and grounded retrieval systems**
-- **Eval-driven iteration and AI reliability**  
-- **Multimodal AI (Whisper, speech, embeddings)**  
-- **FastAPI, Docker & scalable backend architecture**  
-- **Cloud-native data and AI workflows, including Databricks, CI/CD**
-- **Automation, orchestration, and deployment**
+`Python` · `MCP` · `LLM agents` · `Evaluation` · `Structured data`
 
----
+### [Infernomics](https://github.com/QinnniQ/infernomics)
+Evaluation-driven research into the quality, latency, and cost trade-offs of retrieval and inference configurations.
 
-## Featured Projects
+`Python` · `RAG evaluation` · `Cost analysis` · `Benchmarking`
 
-<p align="center">
-<table>
-<tr>
+### [ASML Vision-Language Benchmark](https://github.com/QinnniQ/asml-vlm-prob-benchmark)
+A probabilistic benchmark for evaluating vision-language model behaviour on semiconductor-domain tasks.
 
-<td align="center" width="50%">
-  <a href="https://github.com/QinnniQ/global-economic-intelligence-agent">
-    <img src="https://raw.githubusercontent.com/QinnniQ/QinnniQ/main/assets/geia.png" width="100%" />
-    <br />
-    <sub><b>🌐 Global Economic Intelligence Agent</b></sub>
-  </a>
-  <br />
-  <sub><code>FastAPI • LangChain • RAG • Docker</code></sub>
-</td>
+`Python` · `Vision-language models` · `Probabilistic scoring` · `Model evaluation`
 
-<td align="center" width="50%">
-  <a href="https://github.com/QinnniQ/crypto-bot">
-    <img src="https://raw.githubusercontent.com/QinnniQ/QinnniQ/main/assets/crypto_bot_logo.png" width="80%" />
-    <br />
-    <sub><b>🪙 Crypto Trends Bot</b></sub>
-  </a>
-  <br />
-  <sub><code>Whisper • LangChain • Chroma • Streamlit</code></sub>
-</td>
+### [Retail Support Agent](https://github.com/QinnniQ/rasa-retail-support-agent)
+End-to-end customer-service prototype with structured conversational flows, backend order lookups, escalation logic, and a working interface.
 
-</tr>
-</table>
-</p>
+`Rasa` · `FastAPI` · `Streamlit` · `API integration` · `Conversational AI`
 
----
+### [Cloud Engineering API](https://github.com/QinnniQ/cloud-engineering-api)
+Containerized FastAPI service deployed on AWS with Nginx, HTTPS, DNS, restricted network exposure, and operational documentation.
 
-## Tech Stack
+`AWS` · `Docker` · `FastAPI` · `Nginx` · `Linux` · `TLS`
 
-### 🔹 AI / LLM / Data
-<p>
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=ffde57" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=00e5ff" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG_Pipelines-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VectorDB-Chroma-00E5FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Whisper-20232A?style=for-the-badge" />
-</p>
+## Engineering focus
 
-### 🔹 Backend & Infra
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-0A0F0F?style=for-the-badge&logo=node.js&logoColor=00e676" />
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=ffd700" />
-  <img src="https://img.shields.io/badge/CI%2FCD-Automation-9333EA?style=for-the-badge" />
-</p>
+- LLM agents, MCP tools, and structured workflows
+- Retrieval-augmented generation and grounded responses
+- Evaluation, failure analysis, and reliability
+- Python APIs and external-system integration
+- Docker, AWS, Linux, deployment, and operational tooling
 
-### 🔹 Frontend / UI
-<p>
-  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-1e1e2f?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</p>
+## Current interests
 
----
+Reliable agent systems, AI evaluation, semiconductor intelligence, and production-minded LLM infrastructure.
 
-## Connect With Me
+## Contact
 
-<p align="center">
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/nicholai-gay-201905148/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-</p>
-
-<!-- Centered Email (Perfect Alignment) -->
-<div align="center" style="margin-top: 14px;">
-
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none; padding: 0; vertical-align: middle;">
-      <img src="https://img.icons8.com/fluency/48/000000/new-post.png" width="20px" />
-    </td>
-    <td style="border: none; padding: 0 0 0 6px; vertical-align: middle;">
-      <span style="font-size: 16px;">nicholai.gay@gmail.com</span>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-### Curiosity Focus: Semiconductor Geopolitics
-
-<sub>
-I’ve developed a deep interest in the global dynamics surrounding ASML and  
-EUV lithography, a technology so advanced that it shapes innovation, policy,  
-and international strategy. It’s a rare intersection where engineering excellence  
-meets geopolitics, and it influences how I think about the future of technology.
-</sub>
-
-</div>
-
+[Connect with me on LinkedIn](https://www.linkedin.com/in/nicholai-gay-201905148/)
