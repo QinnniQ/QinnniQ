@@ -1,4 +1,4 @@
-# Niccholai 
+# Nicholai 
 
 AI Engineer building reliable LLM applications, agent systems, RAG pipelines, and the infrastructure needed to run them.
 
