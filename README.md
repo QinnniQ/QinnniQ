@@ -1,15 +1,20 @@
-# Nicholai 
+# Nicholai Gay
 
-AI Engineer building reliable LLM applications, agent systems, RAG pipelines, and the infrastructure needed to run them.
+AI Engineer building LLM systems, agent workflows, RAG applications, and the infrastructure needed to run them reliably.
 
-I focus on practical systems: grounded outputs, explicit tool use, measurable evaluation, API integration, and clear operational boundaries.
+I focus on practical AI engineering: grounded outputs, explicit tool use, measurable evaluation, API integration, and production-minded deployment.
 
-## Selected work
+## Flagship projects
 
 ### [Global Economic Intelligence Agent](https://github.com/QinnniQ/global-economic-intelligence-agent)
-Full-stack economic intelligence application combining live macroeconomic APIs, document retrieval, LLM analysis, interactive dashboards, and exportable reports.
+Full-stack RAG application combining live macroeconomic APIs, document retrieval, LLM analysis, interactive dashboards, and exportable reports.
 
-`Python` · `FastAPI` · `LangChain` · `RAG` · `ChromaDB` · `Streamlit` · `Docker`
+`Python` · `FastAPI` · `LangChain` · `RAG` · `ChromaDB` · `Streamlit`
+
+### [Cloud Engineering API](https://github.com/QinnniQ/cloud-engineering-api)
+Live FastAPI service deployed on AWS with Docker, Terraform, GitHub Actions, Nginx, HTTPS, custom DNS, and public/private VPC networking.
+
+`AWS` · `Terraform` · `Docker` · `FastAPI` · `GitHub Actions` · `Linux` · `Nginx`
 
 ### [ChipScope MCP](https://github.com/QinnniQ/chipscope-mcp)
 MCP-native semiconductor intelligence system with structured resources, deterministic and LLM-backed tools, and repeatable evaluation workflows.
@@ -17,24 +22,17 @@ MCP-native semiconductor intelligence system with structured resources, determin
 `Python` · `MCP` · `LLM agents` · `Evaluation` · `Structured data`
 
 ### [Infernomics](https://github.com/QinnniQ/infernomics)
-Evaluation-driven research into the quality, latency, and cost trade-offs of retrieval and inference configurations.
+Benchmarking and observability framework for analysing LLM cost, latency, caching, RAG retrieval trade-offs, and evaluation overhead.
 
-`Python` · `RAG evaluation` · `Cost analysis` · `Benchmarking`
+`Python` · `RAG evaluation` · `LLM-as-judge` · `Cost analysis` · `Benchmarking`
 
-### [ASML Vision-Language Benchmark](https://github.com/QinnniQ/asml-vlm-prob-benchmark)
-A probabilistic benchmark for evaluating vision-language model behaviour on semiconductor-domain tasks.
-
-`Python` · `Vision-language models` · `Probabilistic scoring` · `Model evaluation`
+## Additional work
 
 ### [Retail Support Agent](https://github.com/QinnniQ/rasa-retail-support-agent)
-End-to-end customer-service prototype with structured conversational flows, backend order lookups, escalation logic, and a working interface.
+Structured customer-service automation with Rasa, FastAPI backend integration, order-aware workflows, and human escalation logic.
 
-`Rasa` · `FastAPI` · `Streamlit` · `API integration` · `Conversational AI`
-
-### [Cloud Engineering API](https://github.com/QinnniQ/cloud-engineering-api)
-Containerized FastAPI service deployed on AWS with Nginx, HTTPS, DNS, restricted network exposure, and operational documentation.
-
-`AWS` · `Docker` · `FastAPI` · `Nginx` · `Linux` · `TLS`
+### [ASML Vision-Language Benchmark](https://github.com/QinnniQ/asml-vlm-prob-benchmark)
+Probabilistic evaluation of a vision-language model under semiconductor-domain shift, including calibration error, entropy, confidence, and reliability analysis.
 
 ## Engineering focus
 
@@ -42,7 +40,7 @@ Containerized FastAPI service deployed on AWS with Nginx, HTTPS, DNS, restricted
 - Retrieval-augmented generation and grounded responses
 - Evaluation, failure analysis, and reliability
 - Python APIs and external-system integration
-- Docker, AWS, Linux, deployment, and operational tooling
+- Docker, AWS, Terraform, Linux, CI/CD, and deployment
 
 ## Current interests
 
@@ -50,4 +48,4 @@ Reliable agent systems, AI evaluation, semiconductor intelligence, and productio
 
 ## Contact
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/nicholai-gay-201905148/)
+[LinkedIn](https://www.linkedin.com/in/nicholai-gay-201905148/)
