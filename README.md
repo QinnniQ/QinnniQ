@@ -9,7 +9,7 @@ I focus on practical AI engineering: grounded outputs, explicit tool use, measur
 ### [Global Economic Intelligence Agent](https://github.com/QinnniQ/global-economic-intelligence-agent)
 Full-stack RAG application combining live macroeconomic APIs, document retrieval, LLM analysis, interactive dashboards, and exportable reports.
 
-`Python` · `FastAPI` · `LangChain` · `RAG` · `ChromaDB` · `Streamlit`
+`Python` · `FastAPI` · `LangChain` · `RAG` · `ChromaDB` · `Streamlit` · `Docker`
 
 ### [Cloud Engineering API](https://github.com/QinnniQ/cloud-engineering-api)
 Live FastAPI service deployed on AWS with Docker, Terraform, GitHub Actions, Nginx, HTTPS, custom DNS, and public/private VPC networking.
