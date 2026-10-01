@@ -1,51 +1,23 @@
 # Nicholai Gay
 
-AI Engineer building LLM systems, agent workflows, RAG applications, and the infrastructure needed to run them reliably.
+**AI Engineer · The Hague, Netherlands**
 
-I focus on practical AI engineering: grounded outputs, explicit tool use, measurable evaluation, API integration, and production-minded deployment.
+I build AI applications that connect models to documents, APIs, and business workflows. My focus is on answers people can trace, actions governed by explicit rules, and software that can be tested and deployed. I bring an operations background to the engineering work, so I start with the decision or service problem the system should help solve.
 
-## Flagship projects
+## Selected work
 
-### [Global Economic Intelligence Agent](https://github.com/QinnniQ/global-economic-intelligence-agent)
-Full-stack RAG application combining live macroeconomic APIs, document retrieval, LLM analysis, interactive dashboards, and exportable reports.
+| Project | What it shows |
+| --- | --- |
+| [Global Economic Intelligence Agent](https://github.com/QinnniQ/global-economic-intelligence-agent) | Combines live economic data, document retrieval, and LLM analysis in a FastAPI and Streamlit application. Docker and CI support repeatable builds. |
+| [Retail Support AgentOps](https://github.com/QinnniQ/rasa-retail-support-agent) | Uses a Rasa flow, a custom action, and a FastAPI mock backend to guide three order-aware support scenarios. Independent prototype with simulated customer data. |
+| [Infernomics](https://github.com/QinnniQ/infernomics) | Compares estimated AI-answer cost, latency, caching, retrieval depth, and judged quality. Includes deterministic tests and GitHub Actions. |
+| [Cloud Engineering API](https://github.com/QinnniQ/cloud-engineering-api) | Demonstrates deployment of a FastAPI service on AWS with Docker, Terraform, Nginx, HTTPS, and CI/CD. |
 
-`Python` · `FastAPI` · `LangChain` · `RAG` · `ChromaDB` · `Streamlit` · `Docker`
+## More focused experiments
 
-### [Cloud Engineering API](https://github.com/QinnniQ/cloud-engineering-api)
-Live FastAPI service deployed on AWS with Docker, Terraform, GitHub Actions, Nginx, HTTPS, custom DNS, and public/private VPC networking.
+- [ChipScope MCP](https://github.com/QinnniQ/chipscope-mcp): exposes local semiconductor notes through MCP tools and resources, with a rule-based baseline and a small LLM evaluation.
+- [ASML vision-language benchmark](https://github.com/QinnniQ/asml-vlm-prob-benchmark): explores uncertainty and calibration under semiconductor-style domain shift.
 
-`AWS` · `Terraform` · `Docker` · `FastAPI` · `GitHub Actions` · `Linux` · `Nginx`
+I am interested in **AI Engineer, Applied AI, LLM Engineer, and agent-systems roles** in the Netherlands and wider European market.
 
-### [ChipScope MCP](https://github.com/QinnniQ/chipscope-mcp)
-MCP-native semiconductor intelligence system with structured resources, deterministic and LLM-backed tools, and repeatable evaluation workflows.
-
-`Python` · `MCP` · `LLM agents` · `Evaluation` · `Structured data`
-
-### [Infernomics](https://github.com/QinnniQ/infernomics)
-Benchmarking and observability framework for analysing LLM cost, latency, caching, RAG retrieval trade-offs, and evaluation overhead.
-
-`Python` · `RAG evaluation` · `LLM-as-judge` · `Cost analysis` · `Benchmarking`
-
-## Additional work
-
-### [Retail Support Agent](https://github.com/QinnniQ/rasa-retail-support-agent)
-Structured customer-service automation with Rasa, FastAPI backend integration, order-aware workflows, and human escalation logic.
-
-### [ASML Vision-Language Benchmark](https://github.com/QinnniQ/asml-vlm-prob-benchmark)
-Probabilistic evaluation of a vision-language model under semiconductor-domain shift, including calibration error, entropy, confidence, and reliability analysis.
-
-## Engineering focus
-
-- LLM agents, MCP tools, and structured workflows
-- Retrieval-augmented generation and grounded responses
-- Evaluation, failure analysis, and reliability
-- Python APIs and external-system integration
-- Docker, AWS, Terraform, Linux, CI/CD, and deployment
-
-## Current interests
-
-Reliable agent systems, AI evaluation, semiconductor intelligence, and production-minded LLM infrastructure.
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/nicholai-gay-201905148/)
+**Contact:** [LinkedIn](https://www.linkedin.com/in/nicholai-gay-201905148/) · [Email](mailto:nicholai.gay@gmail.com)
