@@ -1,7 +1,5 @@
 [![Nicholai Gay — AI Engineer. Practical AI systems, thoughtfully engineered.](assets/profile-banner.svg)](https://profile.nickcloud.dev/)
 
-# Nicholai Gay
-
 **AI Engineer · The Hague, Netherlands**
 
 I build AI applications that connect models to the data, tools, and workflows people actually use. I care about grounded answers, measurable trade-offs, clear failure paths, and software that can move beyond a notebook.
