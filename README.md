@@ -14,10 +14,10 @@ My route into engineering began in operations and team leadership. That backgrou
 
 | Project | Engineering focus |
 | --- | --- |
-| **Infernomics** · [Live app](https://infernomics.nickcloud.dev/) · [Source](https://github.com/QinnniQ/infernomics) | A Cloudflare Pages research desk for 60 archived inference attempts: one model, three output limits, measured latency and token use, completion outcomes, and estimated cost. The public app makes no provider calls. |
+| **Retail Support Agent** · [Live demo](https://support.nickcloud.dev/) · [Source](https://github.com/QinnniQ/rasa-retail-support-agent) | An independent Dutch retail support demo with fictional orders, guided conversations, and session-scoped handoff cases. The repository retains a Rasa prototype; the public demo uses deterministic rules and does not run Rasa. |
 | **Global Economic Intelligence** · [Live app](https://econ.nickcloud.dev/) · [Source](https://github.com/QinnniQ/global-economic-intelligence-agent) | A Cloudflare Worker workspace for sourced World Bank indicators, five-country comparison, deterministic analysis, dated report context, and browser PDF export. The public release makes no paid model calls. |
-| **[Retail Support AgentOps](https://github.com/QinnniQ/rasa-retail-support-agent)** | A Rasa support prototype that checks *simulated* order data before giving guidance. Explicit fallback and human handoff paths keep the assistant within its limits. |
-| **[Cloud Engineering API](https://github.com/QinnniQ/cloud-engineering-api)** | A live FastAPI service deployed on AWS EC2 with Docker, Nginx, HTTPS, and GitHub Actions, alongside a separate Terraform networking lab. **[View the live API ↗](https://api.nickcloud.dev/)** |
+| **Infernomics** · [Live app](https://infernomics.nickcloud.dev/) · [Source](https://github.com/QinnniQ/infernomics) | A Cloudflare Pages research desk for 60 archived inference attempts: one model, three output limits, measured latency and token use, completion outcomes, and estimated cost. The public app makes no provider calls. |
+| **Cloud Engineering API** · [Live app](https://api.nickcloud.dev/) · [Source](https://github.com/QinnniQ/cloud-engineering-api) | A live FastAPI service deployed on AWS EC2 with Docker, Nginx, HTTPS, and GitHub Actions, alongside a separate Terraform networking lab. |
 
 **Further experiments:** [ChipScope MCP](https://github.com/QinnniQ/chipscope-mcp) explores inspectable agent tools and paired evaluation. The [vision-language benchmark](https://github.com/QinnniQ/asml-vlm-prob-benchmark) examines uncertainty and calibration on synthetic semiconductor-style imagery.
 
